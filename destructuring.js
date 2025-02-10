@@ -5,7 +5,7 @@ console.log(first);
 console.log(third);
 
 const person = { name: "Alice", age: 25, gender: "male" };
-const { name, age } = person;
+const { name, age } = person; 
 
 console.log(name);
 console.log(age);
